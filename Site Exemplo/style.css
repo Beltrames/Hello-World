@@ -1,0 +1,20 @@
+*
+{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: lighter;
+
+}
+
+body{
+
+padding-right: 50px gray;
+padding-right: 65px white;
+box-shadow: 2px black;
+width: 750px;
+height: 1250px;
+border-bottom: 10px;
+border-top: 10px;
+
+}
